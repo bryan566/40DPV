@@ -45,8 +45,8 @@
           <h1>ÚNETE Y SALVA LAS VIDAS DE MILLONES DE MADRES Y BEBÉS</h1>
           <p>Rezamos por el Fin del Aborto</p>
           <div class="d-flex">
-            <a href="#about" class="btn-get-started">Get Started</a>
-            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+
+            <a href="https://youtu.be/jvaDw3FpymE" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Ver Video</span></a>
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 hero-img">
@@ -64,15 +64,15 @@
       <div class="row gx-0">
 
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="assets/img/about.jpeg" class="img-fluid" alt="">
         </div>
 
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>Who We Are</h3>
-            <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+            <h3>QUIENES SOMOS</h3>
+            <h2>40 DIAS POR LA VIDA</h2>
             <p>
-              Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+              40 Días por la Vida es un movimiento PRO VIDA que mantiene su sede en la ciudad de Loja, tiene la visión de acceder al poder de Dios, mediante la oración, el ayuno, la vigilia pacífica y la integración comunitaria para acabar con el fin del aborto.
             </p>
             <div class="text-center text-lg-start">
               <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">

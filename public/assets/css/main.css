@@ -487,6 +487,7 @@ h6 {
   position: relative;
   padding-bottom: 12px;
   margin-bottom: 15px;
+ 
 }
 
 .footer h4::after {
@@ -520,6 +521,7 @@ h6 {
   padding: 10px 0;
   display: flex;
   align-items: center;
+ 
 }
 
 .footer .footer-links ul li:first-child {
@@ -797,13 +799,13 @@ section,
 .hero .btn-watch-video {
   font-size: 16px;
   transition: 0.5s;
-  margin-left: 25px;
-  color: var(--default-color);
+  margin-left: 3px;
+  color: var(--background-color);
   font-weight: 600;
 }
 
 .hero .btn-watch-video i {
-  color: var(--accent-color);
+  color: var(--heading-color);
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -811,11 +813,11 @@ section,
 }
 
 .hero .btn-watch-video:hover {
-  color: var(--accent-color);
+  color: var(--contrast-color);
 }
 
 .hero .btn-watch-video:hover i {
-  color: color-mix(in srgb, var(--accent-color), transparent 15%);
+  color: color-mix(in srgb, var(--background-color), transparent 15%);
 }
 
 @media (max-width: 640px) {
