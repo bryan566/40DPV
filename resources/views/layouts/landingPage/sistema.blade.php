@@ -36,26 +36,26 @@
 
  <main class="main">
 
-  <!-- Hero Section -->
+  <!-- Home Section -->
   <section id="hero" class="hero section">
 
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>Welcome to Our Website</h1>
-          <p>We are team of talented designers making websites with Bootstrap</p>
+          <h1>ÚNETE Y SALVA LAS VIDAS DE MILLONES DE MADRES Y BEBÉS</h1>
+          <p>Rezamos por el Fin del Aborto</p>
           <div class="d-flex">
             <a href="#about" class="btn-get-started">Get Started</a>
             <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 hero-img">
-          <img src="assets/img/hero-img.png" class="img-fluid" alt="">
+          <!--<img src="assets/img/hero-img.png" class="img-fluid" alt="">-->
         </div>
       </div>
     </div>
 
-  </section><!-- /Hero Section -->
+  </section><!-- /Home Section -->
 
   <!-- About Section -->
   <section id="about" class="about section">
