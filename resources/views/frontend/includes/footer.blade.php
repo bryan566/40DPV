@@ -3,6 +3,7 @@
     <div class="footer-top">
       <div class="container">
         <div class="row gy-4">
+
           <div class="col-lg-4 col-md-6 footer-about">
             <a href="index.html" class="logo d-flex align-items-center">
               <span class="sitename">40 DIAS POR LA VIDA</span>
@@ -15,7 +16,7 @@
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-3 footer-links">
+          <!--<div class="col-lg-2 col-md-3 footer-links">
             <h4>Useful Links</h4>
             <ul>
               <li><a href="#">Home</a></li>
@@ -57,7 +58,7 @@
               <li><a href="#">Trodelas</a></li>
               <li><a href="#">Flexo</a></li>
             </ul>
-          </div>
+          </div>-->
 
         </div>
       </div>
@@ -68,14 +69,14 @@
 
         <div class="d-flex flex-column align-items-center align-items-lg-start">
           <div>
-            © Copyright <strong><span>MyWebsite</span></strong>. All Rights Reserved
+            © Copyright <strong><span>40 DIAS POR LA VIDA</span></strong>.
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            LOJA. <a href="https://bootstrapmade.com/">ECUADOR</a>
           </div>
         </div>
 
