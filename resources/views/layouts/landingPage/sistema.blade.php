@@ -194,7 +194,7 @@
               </ul>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+              <img src="assets/img/aborto.jpg" alt="" class="img-fluid">
             </div>
           </div>
         </div>
