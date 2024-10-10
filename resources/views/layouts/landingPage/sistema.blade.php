@@ -64,7 +64,7 @@
       <div class="row gx-0">
 
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/about.jpeg" class="img-fluid" alt="">
+          <img src="assets/img/nosotros.jpeg" class="img-fluid" alt="">
         </div>
 
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
@@ -88,6 +88,123 @@
 
   </section><!-- /About Section -->
 
+  <!-- Features Section -->
+  <section id="features" class="features section">
+
+    <div class="container">
+
+      <ul class="nav nav-tabs row  g-2 d-flex" data-aos="fade-up" data-aos-delay="100">
+
+        <li class="nav-item col-3">
+          <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+            <h4>ORACIÓN Y AYUNO</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+        <li class="nav-item col-3">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
+            <h4>VIGILIA</h4>
+          </a><!-- End tab nav item -->
+
+        </li>
+        <li class="nav-item col-3">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
+            <h4>ALCANCE</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+        <li class="nav-item col-3">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
+            <h4>¿POR QUE 40 DPV?</h4>
+          </a>
+        </li>
+        <!-- End tab nav item -->
+
+      </ul>
+
+      <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+              <h3>Oración y Ayuno</h3>
+              <p class="fst-italic">
+                La oración nos mantiene fieles a nuestro deseo de cumplir la voluntad de Dios.
+              </p>
+              <ul>
+                <li><i class="bi bi-check2-all"></i> <span>El núcleo espiritual de la campaña es el compromiso con la oración y el ayuno.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>El ayuno es un sacrificio que, con la gracia de Dios, nos permite superar nuestras límitaciones. </span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Las personas de fe están invitadas también a ayunar durante la campaña de 40 Días por la Vida. Creemos que cuando el pueblo de Dios ayuna con un espíritu quebrantado, arrepentido y contrito, nuestro Padre celestial escucha desde el cielo y sana nuestras vidas, comunidades y países.</span></li>
+              </ul>
+            </div>
+            <div class="col-lg-6 order-1 order-lg-2 text-center">
+              <img src="assets/img/ayuno.jpeg" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div><!-- End tab content item -->
+
+        <div class="tab-pane fade" id="features-tab-2">
+          <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+              <h3>Vigilia Pacífica</h3>
+              <p class="fst-italic">
+                Estas vigilias son actos pacíficos de presencia pública, con el fin de concienciar y ofrecer apoyo a quienes lo necesiten.
+              </p>
+              <ul>
+                <li><i class="bi bi-check2-all"></i> <span>Es una oración continua frente a centros de aborto durante 40 días, donde los participantes rezan por el fin del aborto y ofrecen apoyo a las madres, todo en un ambiente de respeto y compasión.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Los participantes se reúnen para rezar y ofrecer ayuda a las mujeres que entran y salen de las clínicas, mostrando un testimonio visible de apoyo a la vida. </span></li>
+                <li><i class="bi bi-check2-all"></i> <span> También sirve como un llamado al arrepentimiento para aquellos que trabajan en el centro de aborto y aquellos que lo patrocinan. </span></li>
+           
+              </ul>
+            </div>
+            <div class="col-lg-6 order-1 order-lg-2 text-center">
+              <img src="assets/img/about.jpeg" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div><!-- End tab content item -->
+
+        <div class="tab-pane fade" id="features-tab-3">
+          <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+              <h3>Alcance Comunitario</h3>
+              <ul>
+                <li><i class="bi bi-check2-all"></i> <span>Llevando un mensaje pro vida optimista a cada rincón de nuestra ciudad, mediante esfuerzos de los medios, la iglesia, escuelas y la visibilidad pública. </span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Es una campaña de sensibilización en todos los niveles y ámbitos de su comunidad. La gente muestra su apoyo a 40 Días por la Vida de forma visible con pulseras, ropa, carteles o pegatinas en sus vehículos.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Se distribuyen folletos informativos, se organiza la participación en eventos y se dialoga con el público para educar y generar un cambio cultural a favor de la vida. </span></li>
+              </ul>
+            
+            </div>
+            <div class="col-lg-6 order-1 order-lg-2 text-center">
+              <img src="assets/img/alcance.jpeg" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div><!-- End tab content item -->
+
+        <div class="tab-pane fade" id="features-tab-4">
+          <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+              <h3>¿Por qué 40 días por la Vida?</h3>
+              <p class="fst-italic">
+                Los 40 días representan un tiempo de oración intensa, ayuno y acción pacífica para cambiar corazones y mentes sobre el aborto, inspirado en la idea de que 40 días pueden generar un cambio profundo y significativo, tanto personal como comunitario.
+              </p>
+              <ul>
+                <li><i class="bi bi-check2-all"></i> <span>Es un movimiento de carácter global cuyo propósito principal es terminar con el aborto a través de una combinación de oración, ayuno, vigilia pacífica y alcance comunitario. </span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Su nombre y duración (40 días) no son arbitrarios, sino que están inspirados en el simbolismo bíblico del número 40, vinculado a tiempos de prueba, renovación y transformación espiritual.</span></li>
+                
+              </ul>
+            </div>
+            <div class="col-lg-6 order-1 order-lg-2 text-center">
+              <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div>
+        <!-- End tab content item -->
+
+      </div>
+
+    </div>
+
+  </section><!-- /Features Section -->
  
 
 </main>
