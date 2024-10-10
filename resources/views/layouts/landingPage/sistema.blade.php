@@ -381,6 +381,120 @@
 
     </section><!-- /Portfolio Section -->
  
+   <!-- Equipo Section -->
+   <section id="team" class="team section light-background">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Equipo de 40 DPV</h2>
+      <p>Esta sección contiene los miembros del equipo de la campaña que conforma 40 Días por la Vida</p>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+      <div class="row gy-5">
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/ale.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Maria Alejandra Villavicencio</h4>
+              <span>Coordinadora</span>
+              <div class="social">
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/andrey.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Andrey</h4>
+              <span>Product Manager</span>
+              <div class="social">
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/Brenda.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Brenda Godoy Paucar</h4>
+              <span>CTO</span>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/ivanova.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Ivanova Eras</h4>
+              <span>CTO</span>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/bryan.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Bryan Maldonado</h4>
+              <span>CTO</span>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="pic"><img src="assets/img/equipo/richard.jpg" class="img-fluid" alt=""></div>
+            <div class="member-info">
+              <h4>Richard Chimbo</h4>
+              <span>CTO</span>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter-x"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- End Team Member -->
+
+      </div>
+
+    </div>
+
+  </section><!-- /Team Section -->
 
 </main>
 
