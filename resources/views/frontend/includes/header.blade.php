@@ -11,7 +11,7 @@
         <ul>
           <li><a href="#hero" class="active">Inicio</a></li>
           <li><a href="#about">Nosotros</a></li>
-          <li><a href="#services">Participa</a></li>
+          <li><a href="#participa">Cómo Participar</a></li>
           <li><a href="#portfolio">Galeria</a></li>
           <li><a href="#team">Equipo</a></li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
