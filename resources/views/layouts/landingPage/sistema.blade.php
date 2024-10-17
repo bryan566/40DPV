@@ -27,6 +27,8 @@
   <!-- Main CSS File -->
   <link href="{{asset('assets/css/main.css')}}" rel="stylesheet">
 
+  <link rel="stylesheet" href="https://fonts.google.com/icons?selected=Material+Icons+Outlined:done:&icon.size=24&icon.color=%23e8eaed&icon.platform=web">
+
 </head>
 
 <body class="index-page">
@@ -75,10 +77,10 @@
               40 Días por la Vida es un movimiento PRO VIDA que mantiene su sede en la ciudad de Loja, tiene la visión de acceder al poder de Dios, mediante la oración, el ayuno, la vigilia pacífica y la integración comunitaria para acabar con el fin del aborto.
             </p>
             <div class="text-center text-lg-start">
-              <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+              <!--<a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>Read More</span>
                 <i class="bi bi-arrow-right"></i>
-              </a>
+              </a>-->
             </div>
           </div>
         </div>
@@ -222,24 +224,29 @@
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item position-relative">
-            <div class="icon"><i class="bi bi-activity icon"></i></div>
-            <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
+            <div class="icon">
+              <img src="assets/img/vela.png" class="img-fluid" alt="100">
+            </div>
+
+            <h4><a href="" class="stretched-link">Únete a una Vigilia</a></h4>
             <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
           <div class="service-item position-relative">
-            <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-            <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
+            <!--<div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>-->
+           <img src="assets/img/gente.png" class="img-fluid" alt="100">
+          
+            <h4><a href="" class="stretched-link">Cómo Voluntario</a></h4>
             <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
           <div class="service-item position-relative">
-            <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-            <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
+            <img src="assets/img/donacion.png" class="img-fluid" alt="100">
+            <h4><a href="" class="stretched-link">Mediante Donaciones</a></h4>
             <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
           </div>
         </div><!-- End Service Item -->
@@ -287,7 +294,7 @@
                 <img src="assets/img/vigilias/vigilia1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Vigilia 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                
                   <a href="assets/img/vigilias/vigilia1.png" title="Vigilia 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -299,7 +306,7 @@
                 <img src="assets/img/sagrados/virgencita.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Imagen Sagrada</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                
                   <a href="assets/img/sagrados/virgencita.png" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -311,7 +318,7 @@
                 <img src="assets/img/carteles/libro_provida.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Libro 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                 
                   <a href="assets/img/carteles/libro_provida.png" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -323,7 +330,7 @@
                 <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Marchas y Caminatas</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  
                   <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -335,7 +342,7 @@
                 <img src="assets/img/vigilias/vigilia2.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Vigilia 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  
                   <a href="assets/img/vigilias/vigilia2.png" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -347,7 +354,7 @@
                 <img src="assets/img/sagrados/rosario.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Rosario</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  
                   <a href="assets/img/sagrados/rosario.png" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -359,7 +366,7 @@
                 <img src="assets/img/carteles/salvemos.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Cartel 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  
                   <a href="assets/img/carteles/salvemos.png" title="Cartel 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -371,7 +378,6 @@
                 <img src="assets/img/inicio_campaña/apertura.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Apertura y Finalización de la Campaña</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
                   <a href="assets/img/inicio_campaña/apertura.png" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -383,7 +389,6 @@
                 <img src="assets/img/vigilias/vigilia3.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Vigilia 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
                   <a href="assets/img/vigilias/vigilia3.png" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -392,11 +397,10 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/sagrados/biblia.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Product 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <h4>Bíblia</h4>
+                  <a href="assets/img/sagrados/biblia.png" title="Biblia" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -407,7 +411,6 @@
                 <img src="assets/img/carteles/cartel_provida.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Cartel 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
                   <a href="assets/img/carteles/cartel_provida.png" title="Cartel 3" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -418,8 +421,7 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Books 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  <h4>Finalización de Campaña</h4>
                   <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
